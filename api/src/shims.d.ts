@@ -1,0 +1,12 @@
+declare module '@nestjs/common'
+declare module '@nestjs/jwt'
+declare module '@nestjs/passport'
+declare var process: any
+declare module 'bcrypt'
+declare module 'passport-jwt'
+declare module '@nestjs/mongoose'
+declare module 'mongoose'
+declare module 'express'
+declare module 'xlsx'
+declare module '@nestjs/core'
+declare module 'bcryptjs'
